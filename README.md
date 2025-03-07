@@ -22,7 +22,7 @@ Reddit Sentiment Analyzer is a Python-based project that retrieves comments from
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/reddit-sentiment-analyzer.git
+   git clone https://github.com/ndeekshith/Reddit_Sentiment_Analyzer.git
   
    ```
 2. Install dependencies:
