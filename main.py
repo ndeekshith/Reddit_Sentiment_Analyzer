@@ -96,10 +96,10 @@ def analyze_sentiment_transformers(comment_texts):
 
 if __name__ == '__main__':
     # --- Replace these with your actual Reddit API credentials and target submission ---
-    REDDIT_CLIENT_ID = "VSTF1H1F_C0ORAEwFyWcKQ"  # Replace with your client ID
-    REDDIT_CLIENT_SECRET = "6No9ityqnwHniYX0vsxsnGeJll-NNA" # Replace with your client secret
+    REDDIT_CLIENT_ID = "your_clientid"  # Replace with your client ID
+    REDDIT_CLIENT_SECRET = "Secret_key" # Replace with your client secret
     REDDIT_USER_AGENT = "CommentSentimentAnalyzerBot by /u/deekshith_n_shetty" # Replace with your user agent
-    SUBREDDIT_NAME = "movies"  # Example subreddit
+    SUBREDDIT_NAME = "movies"  # Example subreddit you can take any example discussion
     SUBMISSION_ID = "1j5e3f7"   # Example submission ID
 
     if REDDIT_CLIENT_ID == "YOUR_CLIENT_ID" or REDDIT_CLIENT_SECRET == "YOUR_CLIENT_SECRET" or REDDIT_USER_AGENT == "CommentSentimentAnalyzerBot by /u/YOUR_REDDIT_USERNAME":
